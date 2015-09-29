@@ -18,5 +18,5 @@ konami(myEasterEgg);
 * Download [source version].
 * Download [minified version].
 
-[source version]:
-[minified version]:
+[source version]:       https://raw.githubusercontent.com/kenglxn/konami.js/master/konami.js
+[minified version]:     https://raw.githubusercontent.com/kenglxn/konami.js/master/konami.min.js
