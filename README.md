@@ -13,3 +13,10 @@ var myEasterEgg = function () {
 konami(myEasterEgg);
 ```
 
+# get it
+
+* Download [source version].
+* Download [minified version].
+
+[source version]:
+[minified version]:
