@@ -3,8 +3,8 @@ register a function as an easter egg to be called when the konami code is entere
 
 konami code:
 
-up up down down left right left right b a enter
-&uarr; &uarr; &darr; &darr; &larr; &rarr; &larr; &rarr; b a &#9166;
+* up up down down left right left right b a enter
+* &uarr; &uarr; &darr; &darr; &larr; &rarr; &larr; &rarr; b a &#9166;
 
 # usage
 
